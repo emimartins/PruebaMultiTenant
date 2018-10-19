@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 1207,
+    "Username": "emiliano.martins",
+    "Name": "Emiliano Martins Albornoz",
+    "Email": "emiliano.martins@fing.edu.uy",
+    "AvatarUrl": "https://secure.gravatar.com/avatar/956ae61270d12270ee8258e58e9e7aaa?s=80&d=identicon",
+    "PrivateToken": "825ab63248372d7508fa1155cb8c023154b68f83abd17994c31e3b640cab83ae",
+    "Host": "https://gitlab.fing.edu.uy/",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 3
+  }
+}

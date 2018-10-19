@@ -1,0 +1,12 @@
+C:\Users\emimartins\Documents\VisualStudioProjects\PruebaMT\Project1\obj\Debug\AccesoADatos.csprojAssemblyReference.cache
+C:\Users\emimartins\Documents\VisualStudioProjects\PruebaMT\Project1\obj\Debug\AccesoADatos.csproj.CoreCompileInputs.cache
+C:\Users\emimartins\Documents\VisualStudioProjects\PruebaMT\Project1\bin\Debug\Project1.dll.config
+C:\Users\emimartins\Documents\VisualStudioProjects\PruebaMT\Project1\bin\Debug\Project1.dll
+C:\Users\emimartins\Documents\VisualStudioProjects\PruebaMT\Project1\bin\Debug\Project1.pdb
+C:\Users\emimartins\Documents\VisualStudioProjects\PruebaMT\Project1\bin\Debug\EntityFramework.dll
+C:\Users\emimartins\Documents\VisualStudioProjects\PruebaMT\Project1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\emimartins\Documents\VisualStudioProjects\PruebaMT\Project1\bin\Debug\EntityFramework.xml
+C:\Users\emimartins\Documents\VisualStudioProjects\PruebaMT\Project1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\emimartins\Documents\VisualStudioProjects\PruebaMT\Project1\obj\Debug\AccesoADatos.csproj.CopyComplete
+C:\Users\emimartins\Documents\VisualStudioProjects\PruebaMT\Project1\obj\Debug\Project1.dll
+C:\Users\emimartins\Documents\VisualStudioProjects\PruebaMT\Project1\obj\Debug\Project1.pdb
